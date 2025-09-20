@@ -24,7 +24,7 @@ To use **Information Technology as a catalyst for good governance**, empowering 
 ## 🛠️ Focus Areas
 
 1. **E-Government Platforms** – secure, citizen-friendly portals for services and information.
-2. **Blockchain for Transparency** – immutable ledgers for procurement, land records, voting, and contracts.
+2. **DLT Or Distributed Tech Stack for Transparency** – immutable ledgers for procurement, land records, voting, and contracts.
 3. **Open Data & Analytics** – dashboards, APIs, and visualization tools for policy decisions.
 4. **Digital Identity & Security** – inclusive, privacy-preserving ID and KYC frameworks.
 5. **AI for Public Good** – automated compliance checks, fraud detection, and service optimization.
