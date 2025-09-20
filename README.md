@@ -1,9 +1,3 @@
-Got it 🚀 — here’s a ready-to-use **README.md file** for your GitHub repo.
-
-I’ll give you the raw Markdown so you can copy-paste into a file called `README.md` in your repo.
-
----
-
 # 📘 IT for Good Governance
 
 **IT for Good Governance (IT4GG)** is a non-profit initiative that leverages technology to promote **transparency, accountability, citizen participation, and efficiency** in governance.
