@@ -34,7 +34,6 @@ To use **Information Technology as a catalyst for good governance**, empowering 
 ## 🚀 Current Initiatives
 
 * **Service Catalogue on Blockchain** – universal registry for public/private services with industry tags.
-* **AI Gatekeepers for PR Approvals** – automated quality checks for governance-related tech projects.
 * **Citizen Feedback Portals** – mobile-first platforms for reporting issues and rating services.
 * **Capacity Building Workshops** – training local government units (LGUs) on IT adoption and cybersecurity.
 
