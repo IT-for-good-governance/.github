@@ -86,6 +86,4 @@ We believe in open-source collaboration to maximize public value.
 
 ✨ Together, let’s make governance **transparent, accountable, and citizen-driven** with technology.
 
----
 
-Do you want me to also generate the **MIT License file (`LICENSE`)** and a **basic `CONTRIBUTING.md`** so your repo looks complete and professional from the start?
