@@ -86,7 +86,7 @@ We believe in open-source collaboration to maximize public value.
 
 ✨ Together, let’s make governance **transparent, accountable, and citizen-driven** with technology.
 
-👨‍💻 Contributors
+👥 Contributors Tech Core Team
 
-🧑‍💻 Adrian Farenheights - skills "Harem no Jutsu" & "Sexy no Jutsu" side skills "Eating and Sleeping"
+🌀 Adrian Farenheights - skills "Harem no Jutsu" & "Sexy no Jutsu" side skills "Eating and Sleeping"
 
