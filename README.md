@@ -88,4 +88,7 @@ We believe in open-source collaboration to maximize public value.
 
 ---
 
-Do you want me to also generate the **MIT License file (`LICENSE`)** and a **basic `CONTRIBUTING.md`** so your repo looks complete and professional from the start?
+##👥 Contributors Tech Core Team
+
+* 🌀 Adrian Farenheights - skills "Harem no Jutsu" & "Sexy no Jutsu" side skills "Eating and Sleeping"
+
